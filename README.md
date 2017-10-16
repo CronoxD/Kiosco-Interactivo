@@ -5,10 +5,15 @@ Por lo tanto para que el programa pueda ser ejectuado se tienen que instalar dic
 siguientes comandos, para mas información adjunto los manuales en la carpeta con el mismo nombre:
 
 sudo apt-get update
+
 sudo apt-get upgrade
+
 sudo apt-cache search libsdl2
+
 sudo apt-get install libsdl2-dev
+
 sudo apt-get install libsdl2-image-dev
+
 sudo apt-get install libsdl2-mixer-dev
 
 It's a school project developed in August 2017, it's a information module programmed in c++ to GNU/Linux, makes us of SDL2.
