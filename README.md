@@ -1,6 +1,8 @@
 # Kiosco-Interactivo
 ![alt text](https://images.ssstatic.com/42inch-led-all-in-one-kiosco-publicidad-pc-terminal-de-autoservicio-interactivo-13898971z0-09032267.jpg)
 
+See: https://github.com/CronoxD/Kiosco-Interactivo/blob/master/Kiosco-Esime/manuales/Manual-usuario.pdf
+
 The project it's like the image.
 It's a information module programmed in c++ to GNU/Linux, makes us of SDL2.
 to more information you can read the manuals (sorry for now written in spanish :( ).
